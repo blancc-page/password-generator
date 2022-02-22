@@ -18,9 +18,9 @@ To get a local copy up and running follow these simple example steps.
 - cd into the project folder
 - open the index.html file
 
-### :newspaper: Documentation
+## :newspaper: Documentation
 
-## :eyeglasses: Logic
+### :eyeglasses: Logic
 
 > This project has very basic HTML structure & CSS positioning. The bulk of it is JavaScript, which adds the funtionality.
 
@@ -30,21 +30,21 @@ To get a local copy up and running follow these simple example steps.
 
 > finalPassword is declared to store the value of generatedPassword which has been truncated to the length selected. generatePassword returns finalPassword, which is returned text inside the resultElement.
 
-## :key: Key JS Methods Used
+### :key: Key JS Methods Used
 
-# Math.floor & Math.random()
+#### Math.floor & Math.random()
 > These were used in combination to generate random values, which were mapped against the ASCII chart to produce random uppercase and lower case characters as well as numbers. The symbols were hard-coded.
 
-# array.filter()
+#### array.filter()
 > This was used to filter the checked options from the unchecked options.
 
-# Object.keys() & Object.values()
+#### Object.keys() & Object.values()
 > These were used to interact and manipulate the content of the randomFunc object.
 
-# String.slice()    
+#### String.slice()    
 > Used to truncate generatedPassword to the length specified.
 
-# Clipboard.writeText()
+#### Clipboard.writeText()
 > Used to give the clipboard button the "copy to clipboard"functionality.
 
 
