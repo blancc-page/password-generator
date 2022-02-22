@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### :eyeglasses: Logic
 
-> This project has very basic HTML structure & CSS positioning, with bootstrap for the navbar as well. The bulk of it is JavaScript, which adds the funtionality.
+> This project has very basic HTML structure & CSS positioning, with bootstrap for the navbar logo. The bulk of it is JavaScript, which adds the funtionality.
 
 > When the generate button is clicked an event listener is trigered which listens for what options have been checked. Then the generatePassword function is called and it takes in the checked or unchecked options as arguments.
 
